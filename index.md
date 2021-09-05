@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Social Responsilibity - Programmeren
+title: Social Responsibility - Programmeren
 nav_order: 1
 ---
 

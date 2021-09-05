@@ -17,7 +17,7 @@ Aan de hand van deze voorbeeld code leer je gestructureerder werken volgens de M
 
 De snelste manier is om de start project-code repository te "forken":
 
-1. Ga naar https://github.com/hiddebraun-ma/f2m5-social-responsibility
+1. Ga naar [https://github.com/hiddebraun-ma/f2m5-social-responsibility](https://github.com/hiddebraun-ma/f2m5-social-responsibility)
 2. Klik rechtsbovenin op de knop fork
 3. Er wordt nu een *kopie* van het voorbeeld project in jouw account gemaakt
 4. Clone deze repository (dus die in jouw account staat) naar je computer
@@ -25,7 +25,11 @@ De snelste manier is om de start project-code repository te "forken":
 
 ---
 
-[Intro en code download](1-introductie){: .btn .btn-purple .fs-6 }
+Volg nu deze stappen om het project werkend te krijgen op je computer:
+
+[PHP op de commandline](01-php-cli){: .btn .btn-purple .fs-6 }
+
+[Composer installeren](02-composer){: .btn .btn-purple .fs-6 }
 
 
 
