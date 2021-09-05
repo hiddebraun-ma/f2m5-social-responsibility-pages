@@ -1,0 +1,22 @@
+title: F2M5-PROG
+description: "Aanvullende informatie voor de lessen Programmeren"
+email: h.braun@ma-web.nl
+
+github_username:  hiddebraun-ma
+
+# Build settings
+theme: "just-the-docs"
+remote_theme: "pmarsceill/just-the-docs"
+
+#plugins:
+#  - jekyll-feed
+
+exclude: [ "sources", "start.sh", ".idea" ]
+
+# Config theme
+# See: https://pmarsceill.github.io/just-the-docs/docs/configuration/
+# color_scheme: dark
+search:
+  heading_level: 1
+
+logo: "/assets/images/logo.png"
