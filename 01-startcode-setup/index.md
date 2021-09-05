@@ -10,16 +10,18 @@ nav_order: 2
 
 # {{ page.title }}
 
-Jullie krijgen een voorbeeld project structuur waar je in gaat werken deze periode.
+Jullie krijgen voorbeeld project code waar jullie in gaab werken deze periode.
+Aan de hand van deze voorbeeld code leer je gestructureerder werken volgens de MVC (model view controller) structuur.
 
-## Voorbeeld code ophalen en in je Github account zetten 
-De snelste manier si om het voorbeeld project te "forken"
+## Start project-code ophalen en in je Github account zetten 
+
+De snelste manier is om de start project-code repository te "forken":
 
 1. Ga naar https://github.com/hiddebraun-ma/f2m5-social-responsibility
 2. Klik rechtsbovenin op de knop fork
-3. Er wordt nu een kopie van het voorbeeld project in jouw account gemaakt
+3. Er wordt nu een *kopie* van het voorbeeld project in jouw account gemaakt
 4. Clone deze repository (dus die in jouw account staat) naar je computer
-5. Ook alle teamleden clonen deze nieuwe repository naar hun computer
+5. Ook alle teamleden clonen deze nieuwe repository naar hun computer.
 
 ---
 
