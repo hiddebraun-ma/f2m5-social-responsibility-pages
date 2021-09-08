@@ -1,11 +1,11 @@
 ---
-title: Composer
+title: Composer installatie
 layout: page
 permalink: :path/:basename
 parent: 01 - Starter Code
 has_children: true
 has_toc: false
-nav_order: 2
+nav_order: 3
 ---
 
 # {{ page.title }}
