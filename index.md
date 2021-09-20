@@ -10,10 +10,12 @@ Op deze website vind je korte aanvullende informatie voor de lessen programmeren
 
 ---
 
-## Les 1a - Installatie en setup start code
+## Les 1a en b - Installatie en setup start code
 
 [Installatie en setup startcode](01-startcode-setup){: .btn .btn-blue }
 
+## Les 2a - Model view controller introductie
 
+[Model view controller introductie](02-mvc-intro){: .btn .btn-blue }
 
 
