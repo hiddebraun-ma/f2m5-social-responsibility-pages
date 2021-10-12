@@ -8,6 +8,13 @@ nav_order: 1
 
 Op deze website vind je korte aanvullende informatie voor de lessen programmeren in de module F2M5 Social Responsibility.
 
+Gebruik de video's met uitleg op deze website voor het realiseren van:
+
+- Registratie gebruikers
+- Inloggen / Uitloggen
+
+[http://bap.mediadeveloper.amsterdam/md1/periode-4/project-covid-19/](http://bap.mediadeveloper.amsterdam/md1/periode-4/project-covid-19/){: target="_blank" :}
+
 ---
 
 ## Les 1a en b - Installatie en setup start code
@@ -20,3 +27,6 @@ Op deze website vind je korte aanvullende informatie voor de lessen programmeren
 
 ## Les 4a - Database / Model
 [Gegevens in de database](03-database){: .btn .btn-blue }
+
+## Les 4b - Routes extra
+[Routes met parameters](04-route-parameters){: .btn .btn-blue }

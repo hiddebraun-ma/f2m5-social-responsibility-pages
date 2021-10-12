@@ -3,7 +3,6 @@ title: 02 - MVC introductie
 layout: page
 permalink: :path/:basename
 has_children: true
-has_toc: false
 nav_order: 3
 ---
 
