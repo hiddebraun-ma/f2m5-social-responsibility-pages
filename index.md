@@ -15,6 +15,7 @@ Gebruik de video's met uitleg op onderstaande website voor het realiseren van:
 - [Bevestigings e-mail sturen](http://bap.mediadeveloper.amsterdam/covid-19/features/bevestigings-e-mail-sturen/){: target="_blank" :}
 - [Wachtwoord vergeten](http://bap.mediadeveloper.amsterdam/covid-19/features/06-wachtwoord-vergeten-reset/){: target="_blank" :}
 - [Super admin en gewone gebruikers](http://bap.mediadeveloper.amsterdam/covid-19/features/07-super-admin-en-gewone-gebruikers/){: target="_blank" :}
+- [Afbeeldingen uploaden bij inhoud](http://bap.mediadeveloper.amsterdam/covid-19/features/08-afbeeldingen-uploaden-en-koppelen-aan-inhoud/){: target="_blank" :}
 
 [http://bap.mediadeveloper.amsterdam/md1/periode-4/project-covid-19/](http://bap.mediadeveloper.amsterdam/md1/periode-4/project-covid-19/){: target="_blank" :}
 
